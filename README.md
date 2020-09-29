@@ -2,7 +2,7 @@
 
 ## Alunos
 
-- Artur Zorron - 18/0013696
+    Artur Zorron - 18/0013696
 
 ## Problema
 
@@ -12,3 +12,7 @@
     2. Todos os cliques maximais (indicando o número de vértices e quais)
     3. O Coeficiente de Aglomeração de cada vértice
     4. O Coeficiente médio de Aglomeração do Grafo
+
+## Para rodar
+
+    No diretório deste projeto digite o comando "make"
